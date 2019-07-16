@@ -1,0 +1,9 @@
+RemoteSystemsTempFiles
+LimeHomeQATestNightwatch/tests_output
+LimeHomeQATestNightwatch/chromedriver.log
+LimeHomeQATestNightwatch/.project
+LimeHomeQATestNightwatch/.settings
+LimeHomeQATestTestNG/.classpath
+LimeHomeQATestTestNG/.settings
+LimeHomeQATestTestNG/.project
+LimeHomeQATestTestNG/.git
